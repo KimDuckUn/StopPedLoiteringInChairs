@@ -7,7 +7,7 @@ Drag the folder into your recources for your fivem server.
 Ensure StopPedLoiteringInChairs
 
 If you can not get a FiveM script to work. Or know how install one I highly recommend you don't dev for FiveM.
-This script was made by ChatGPT. Because I got pissed ofd that Gabz and UncleJust and other MLO devs are 
+This script was made by ChatGPT. Because I got pissed off that Gabz and UncleJust and other MLO devs are 
 lazy and allow AI to spawn in chairs.
 
 Overview:
@@ -22,6 +22,7 @@ YOU WANT WITH IT I DON'T CARE.
 
 Setup:
 - Use /coords in the game to find X, Y, Z coordinates for desired locations.
+- Place the cords in the client.lua file in the area with brackets.
 - AI entities disappear when a player enters the defined radius, 
 	preventing their persistence in specific in-game locations (MLOs or YMAP's).
 
