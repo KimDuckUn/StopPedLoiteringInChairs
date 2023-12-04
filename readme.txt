@@ -1,4 +1,3 @@
-User
 "StopPedLoiteringInChairs" Script
 
 Author: KimDuckUn & ChatGPT
