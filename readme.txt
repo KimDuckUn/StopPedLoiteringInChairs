@@ -6,6 +6,9 @@ Installation:
 Drag the folder into your recources for your fivem server.
 Ensure StopPedLoiteringInChairs
 
+Dependencies. standalone, meant for vMenu. If you want it to work for ESX, QbCore, OxLib, or whatever cringe version
+you use figure it out on your own. They made google for for a reason.
+
 If you can not get a FiveM script to work. Or know how install one I highly recommend you don't dev for FiveM.
 This script was made by ChatGPT. Because I got pissed off that Gabz and UncleJust and other MLO devs are 
 lazy and allow AI to spawn in chairs.
@@ -36,3 +39,5 @@ Configuration:
 Important Notes:
 - The script continuously checks player proximity to defined areas and despawns AI entities accordingly.
 - Avoid modifying core functionalities unless familiar with enhancing script behavior.
+
+Support: Message me on CFX post. I will not reply to dms or discord messages.
